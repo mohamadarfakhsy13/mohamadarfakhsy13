@@ -12,7 +12,7 @@
 - Multi-platform development such as Flutter.
 
 ## What I'm currently learning?
-- Integrate ML/AI in mobile development.
+- Integrate AI / ML in mobile development.
 - API integration.
 - SDK deployment.
 
