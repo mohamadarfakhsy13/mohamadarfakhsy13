@@ -37,10 +37,6 @@
     <img alt="DART" src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2">
     </a>
     &nbsp;
-    <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="NODEJS" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933">
-    </a>
-    &nbsp;
     <a href="https://getbootstrap.com/" target="_blank"> 
     <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
     </a>
@@ -66,6 +62,10 @@
     &nbsp;
     <a href="https://reactjs.org/" target="_blank">
     <img alt="REACTJS" src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React&logoColor=0985ee">
+    </a>
+    &nbsp;
+    <a href="https://nodejs.org/en/" target="_blank">
+    <img alt="NODEJS" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933">
     </a>
 </p>
 
