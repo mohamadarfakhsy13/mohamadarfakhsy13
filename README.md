@@ -17,10 +17,6 @@
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
     </a>
     &nbsp;
-    <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="PHP" src=https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
-    </a>
-    &nbsp;
     <a href="https://www.w3schools.com/js/" target="_blank"> 
     <img alt="JAVASCRIPT" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
     </a>
@@ -35,6 +31,10 @@
     &nbsp;
     <a href="https://dart.dev/" target="_blank">
     <img alt="DART" src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2">
+    </a>
+    &nbsp;
+    <a href="https://www.w3schools.com/php/" target="_blank">
+    <img alt="PHP" src=https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
     </a>
     &nbsp;
     <a href="https://getbootstrap.com/" target="_blank"> 
@@ -116,8 +116,6 @@
 <a href="https://github.com/mohamadarfakhsy13">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohamadarfakhsy13&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
 </a>
-
-
 </br></br>
 
 ## 💻 How to reach me?
