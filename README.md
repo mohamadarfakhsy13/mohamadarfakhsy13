@@ -30,7 +30,7 @@
     </a>
     &nbsp;
     <a href="https://dart.dev/" target="_blank">
-    <img alt="DART" src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2">
+    <img alt="DART" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1075C2">
     </a>
     &nbsp;
     <a href="https://www.w3schools.com/php/" target="_blank">
