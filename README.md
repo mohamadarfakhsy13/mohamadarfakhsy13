@@ -25,16 +25,8 @@
     <img alt="JAVA" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518">
     </a>
     &nbsp;
-    <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="KOTLIN" src="https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin&logoColor=ee0ff3">
-    </a>
-    &nbsp;
-    <a href="https://dart.dev/" target="_blank">
-    <img alt="DART" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1075C2">
-    </a>
-    &nbsp;
     <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="PHP" src=https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=1075C2">
     </a>
     &nbsp;
     <a href="https://getbootstrap.com/" target="_blank"> 
