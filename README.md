@@ -106,6 +106,18 @@
     <img alt="FLUTTER" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B">
     </a>
 </a>
+
+## 📈 Github Stats
+<a href="https://github.com/mohamadarfakhsy13">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadarfakhsy13&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+</br></br>
+
+<a href="https://github.com/mohamadarfakhsy13">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohamadarfakhsy13&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+</a>
+
+
 </br></br>
 
 ## 💻 How to reach me?
