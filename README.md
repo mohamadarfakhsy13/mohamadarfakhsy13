@@ -105,10 +105,10 @@
 </a>
 </br></br>
 
-<a href="https://github.com/mohamadarfakhsy13">
+<!-- <a href="https://github.com/mohamadarfakhsy13">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohamadarfakhsy13&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Arfakhsy's GitHub Contributions Graph"/>
 </a>
-</br></br>
+</br></br> -->
 
 ## 💻 How to reach me?
 <p align="left">
