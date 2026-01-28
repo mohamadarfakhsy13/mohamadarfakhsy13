@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<h1 align="center">Hi , I'm Mohamad Arfakhsy</h1>
+<h1 align="center">Hi , I'm Arfakhsy Adnan</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=22CDB5&background=FFFFFF00&width=600&lines=Front+End+Developer;AI+Mobile+Engineer;Multip-platform%20|%20AI%20|%20Software%20Explorer;Growth+through+expertise&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=22CDB5&background=FFFFFF00&width=600&lines=Front+End+Engineer;AI+Mobile+Engineer;Cross-platform%20|%20AI%20|%20Software%20Engineer;Growth+through+expertise&center=true&width=500&height=50"></a>
 </p>
 </br>
 
